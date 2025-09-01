@@ -149,7 +149,7 @@ form button {
     gap: 20px;
 }
 
-table figure {
+main figure {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -248,3 +248,4 @@ main figcaption {
 .carte:hover {
   transform: scale(1.05);
 }
+
